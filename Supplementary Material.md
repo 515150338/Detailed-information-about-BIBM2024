@@ -13,3 +13,7 @@ We conducted a runtime-data size analysis on six large-scale datasets, the compl
 ![image](SEER.png)
 ![image](Forest.png)
 ![image](bitcoin.png)
+Please attention that we have represented the y-axis on a logarithmic scale due to the significant variation in running times among different methods.
+
+## Section C: Clustering performance Evaluation
+
