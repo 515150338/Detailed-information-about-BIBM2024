@@ -6,4 +6,8 @@ IDD-Gen generates $N$ data chunks with imbalanced distributions over continuous 
 
 
 ## Section B: Clustering performance Evaluation
-We conducted a runtime-data size analysis on six large-scale datasets, the complete experimental results are as follows: ![image](data-chunks.png)
+We conducted a runtime-data size analysis on six large-scale datasets, the complete experimental results are as follows: ![image](ids2.png)
+![image](gaussian.png)
+![image](IOT.png)
+![image](SEER.png)
+![image](Forest.png)
